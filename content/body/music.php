@@ -2,7 +2,7 @@
             <div class="container">
                 <h1 id="musica">Musica</h1><hr>
                 <div class="row">
-                    <img src="https://goo.gl/ksjAf7" class="col-md-3">
+                    <img src="https://goo.gl/ksjAf7" class="col-md-3 img-responsive">
                     <p class="col-md-9">
                         Foyone y Akapellah estarán en Murcia el próximo jueves 3 de noviembre, dentro de la gira conjunta que ambos han preparado por Europa y Sudamérica. En la Sala 12&Medio tendremos a Foyone y Akapellah acompañados de los murcianos Sin H y Jaro Desperdizio.<br><br>
                         Foyone pisará Murcia por tercera vez este año, tras presentar en febrero su último disco, La Jaula de Oro, y reinar en la última edición del Mr. People. Ahora, con el venezolano Akapellah, vuelve a girar por España, concentrando en apenas dos meses una decena de fechas que no hace más que crecer y servirá de previa a la gira europea y sudamericana. Akapellah traerá nuevo material que está preparando junto a O.B.G. Los locales Sin H y Jaro Desperdizio abrirán la noche con un show conjunto.<br>

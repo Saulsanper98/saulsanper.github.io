@@ -2,7 +2,7 @@
             <div class="container">
                 <h1 id="social">Estudios Sociales</h1><hr>
                 <div class="row">
-                    <img src="https://goo.gl/SMVnXe" class="col-md-3"></img>
+                    <img src="https://goo.gl/SMVnXe" class="col-md-3 img-responsive"></img>
                     <p class="col-md-9">
                         A medida que las personas son más conscientes de sus identidades ‘online’, y a medida que aumenta el tiempo que dedican a las redes sociales, cada vez son más los estudios que quieren estudiar los impactos de las redes sociales en los usuarios. Algunas investigaciones han señalado que las redes sociales podrían estar relacionados con baja autoestima y depresión en adolescentes. Sin embargo esta vez se tratan otras variantes.<br><br>
                         Las amistades y otras relaciones ‘offline’ se han asociado en muchos estudios con longevidad, pero las interacciones online podrían tener propiedades distintas. En el estudio se referenciaron 12 millones de perfiles de Facebook con los récords de salud del Departamento de Salud Pública de California, y se usaron modelos estadísticos para descubrir si el uso de redes sociales está asociado con una vida más larga.<br><br>
