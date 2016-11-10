@@ -37,10 +37,7 @@
                     <!-- Collect the nav links, forms, and other content for toggling -->
                     <div class="collapse navbar-collapse navbar-ex1-collapse">
                         <ul class="nav navbar-nav">
-                            <li class="<?php echo $content == 'sport' ? 'active' : ''; ?>"><a href="?p=sport">N.Deportivas</a></li>
-                            <li class="<?php echo $content == 'poli' ? 'active' : ''; ?>"><a href="?p=poli">N.Políticas</a></li>
-                            <li class="<?php echo $content == 'social' ? 'active' : ''; ?>"><a href="?p=social">E.Sociales</a></li>
-                            <li class="<?php echo $content == 'music' ? 'active' : ''; ?>"><a href="?p=music">Musica</a></li>
+                           <li class="<?php echo $content == 'about' ? 'active' : ''; ?>"><a href="?p=about">Acerca de</a></li>
                         </ul>                    
                         <ul class="nav navbar-nav navbar-right">
                             <li><a href="#">Contacto</a></li>
