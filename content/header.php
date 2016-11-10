@@ -24,7 +24,7 @@
         <nav>
           <ul class="nav nav-pills float-xs-right">
             <li class="nav-item">
-              <a class="nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
+              <a class="nav-link active" href="?p=home">Home <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#">About</a>
