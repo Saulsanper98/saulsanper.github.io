@@ -7,6 +7,7 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="">
     <meta name="author" content="">
+    <link rel="icon" href="../../favicon.ico">
 
     <title>Saulsanper</title>
 
@@ -14,27 +15,24 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="css/narrow-jumbotron.css" rel="stylesheet">
-
-    <link href="css/custom.css" rel="stylesheet">
+    <link href="css/cover.css" rel="stylesheet">
   </head>
 
   <body>
 
-    <div class="container">
-      <div class="header clearfix">
-        <nav>
-          <ul class="nav nav-pills float-xs-right">
-            <li class="nav-item">
-              <a class="nav-link active" href="?p=home">Home <span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">About</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">Contact</a>
-            </li>
-          </ul>
-        </nav>
-        <h3 class="text-muted">Saulsanper</h3>
-      </div>
+    <div class="site-wrapper">
+
+      <div class="site-wrapper-inner">
+
+        <div class="cover-container">
+
+          <div class="masthead clearfix">
+            <div class="inner">
+              <h3 class="masthead-brand">Cover</h3>
+              <nav class="nav nav-masthead">
+                <a class="nav-link <?php echo $content == 'home' ? 'active' : ''; ?>" href="?p=home">Home</a>
+                <a class="nav-link <?php echo $content == 'about' ? 'active' : ''; ?>" href="?p=about">About me</a>
+                <a class="nav-link <?php echo $content == 'contact' ? 'active' : ''; ?>" href="?p=contact">Contáctame</a>
+              </nav>
+            </div>
+          </div>
