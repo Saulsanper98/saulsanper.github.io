@@ -28,7 +28,7 @@
 
           <div class="masthead clearfix">
             <div class="inner">
-              <h3 class="masthead-brand">Cover</h3>
+              <h3 class="masthead-brand">Saúl Sánchez Pérez</h3>
               <nav class="nav nav-masthead">
                 <a class="nav-link <?php echo $content == 'home' ? 'active' : ''; ?>" href="?p=home">Home</a>
                 <a class="nav-link <?php echo $content == 'about' ? 'active' : ''; ?>" href="?p=about">About me</a>
