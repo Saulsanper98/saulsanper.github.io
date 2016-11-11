@@ -1,4 +1,4 @@
-          <div class="mastfoot">
+          <div class="mastfoot footerino">
             <div class="inner">
               <p>&copy; Copyright Saúl Sánchez Pérez 2016</p>
             </div>
