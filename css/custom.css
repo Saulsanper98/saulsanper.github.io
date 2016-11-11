@@ -45,8 +45,8 @@
  
   /* Set the fixed height of the footer here */
  
-  height: 30px;
+  height: 70px;
  
-  line-height: 30px; /* Vertically center the text there */
+  line-height: 0px; /* Vertically center the text there */
  
 }
