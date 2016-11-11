@@ -1,19 +1,4 @@
-.color1 {
- 
-    background-color: darkgray;
- 
-}
- 
 
- 
-.color2 {
- 
-    background-color: darkcyan;
- 
-}
- 
-
- 
 .hrmarg {
  
    height:0.5px;  
@@ -51,15 +36,6 @@
 /* Sticky footer styles
  
 -------------------------------------------------- */
-
- 
-body {
- 
-  /* Margin bottom by footer height */
- 
-  margin-bottom: 30px;
- 
-}
  
 .footerino {
  

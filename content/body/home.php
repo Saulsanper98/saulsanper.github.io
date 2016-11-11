@@ -4,4 +4,4 @@
             <p class="lead">
               <a href="?p=about" class="btn btn-lg btn-secondary">Learn more</a>
             </p>
-          </div>
+</div>
