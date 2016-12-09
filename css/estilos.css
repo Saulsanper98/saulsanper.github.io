@@ -293,7 +293,7 @@ footer .redes-sociales .instagram:hover { background: #3f729b; }
 		padding: 20px;
 	}
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 360px) {
 	.menu {
 		flex-direction: row;
 	}
