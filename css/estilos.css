@@ -290,6 +290,6 @@ footer .redes-sociales .instagram:hover { background: #3f729b; }
 
 	footer .redes-sociales .contenedor {
 		flex-wrap: wrap;
-		padding: 20px 0;
+		padding: 20px;
 	}
 }
