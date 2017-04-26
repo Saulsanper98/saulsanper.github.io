@@ -300,3 +300,9 @@ footer .redes-sociales .instagram:hover { background: #3f729b; }
 	}
 }
 }
+
+header .contenedor-texto .logo {
+	display: flex;
+	flex-wrap: wrap;
+	margin-bottom: 350px;
+}
